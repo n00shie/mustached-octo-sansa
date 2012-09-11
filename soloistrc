@@ -1,0 +1,4 @@
+cookbook_paths:
+- /Users/testaccount/cookbooks
+recipes:
+- pivotal_workstation::meta_clio
